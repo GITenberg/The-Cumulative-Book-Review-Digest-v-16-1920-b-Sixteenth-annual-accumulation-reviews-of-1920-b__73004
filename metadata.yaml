@@ -1,5 +1,8 @@
 _repo: The-Cumulative-Book-Review-Digest-v-16-1920-b-Sixteenth-annual-accumulation-reviews-of-1920-b__73004
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73004-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '56904'
     url: http://www.gutenberg.org/2009/agents/56904
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73004#The-Cumulative-Book-Review-Digest-v-16-1920-b-Sixteenth-annual-accumulation-reviews-of-1920-b_
 gutenberg_issued: '2024-02-20'
 gutenberg_type: Text
 identifiers:
